@@ -16,7 +16,7 @@ This web scraper automatically navigates to the specified URL, extracts the dail
 
 The best thing any of us can do is to:
 
-1. **Understand the System**: Try to understand the system and its flaws. The upcoming documentary "We The Parents" is a great resource. Learn more at [We The Parents Movie](https://wetheparentsmovie.org).
+1. **Understand the System**: Try to understand the system and its flaws. The upcoming documentary "We The Parents" is a great resource. Learn more at [We The Parents Movie](https://wetheparentsmovie.com).
 2. **Join a Community**: Connect with like-minded fathers. We are building an online community at [Stop Alienation](https://StopAlienation.org).
 3. **Advocate for Change**: Push for the passage of Ohio House Bill 14, sponsored by Rep. Rodney Creech. Read more about the bill [here](https://www.legislature.ohio.gov/legislation/135/hb14).
 4. **Support Lawmakers**: Back lawmakers like Rep. Rodney Creech who are fighting for positive change. Learn more about his work [here](https://ohiohouse.gov/members/rodney-creech).
